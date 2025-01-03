@@ -1,4 +1,4 @@
-## Hi I'm nansyhanyi
+## Hi I'm nanshanyi
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanshanyi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanshanyi&hide_progress=true&theme=radical&hide=c++,c,Assembly,html,javaScript,perl,css)
